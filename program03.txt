@@ -1,0 +1,9 @@
+class Demo{
+public static void main(String args[]){
+
+System.out.print("sai[0]="+sai[0]);
+System.out.print("sai[1]="+sai[1]);
+System.out.print("sai[2]="+sai[2]);
+System.out.print("sai[3]="+sai[3]);
+}
+}
